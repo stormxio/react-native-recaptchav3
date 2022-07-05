@@ -29,9 +29,7 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
-  },
-  "dependencies": {
-    "react-native-webview": "^9.0.1"
+    "react-native": "*",
+    "react-native-webview": "*"
   }
 }
